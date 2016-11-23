@@ -1,5 +1,7 @@
 # Socket.io Simple Server
 
+[![Build Status](https://travis-ci.org/m3talstorm/socketio-simple-server.svg?branch=master)](https://travis-ci.org/m3talstorm/socketio-simple-server)
+
 A super simple example of a NodeJS + SocketIO server and client
 
 This acts more of a boilerplate/reminder for toy projects
