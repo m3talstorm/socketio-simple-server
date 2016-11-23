@@ -23,8 +23,10 @@
   },
   "repository": {
     "type": "git",
+    "url": "https://github.com/m3talstorm/socketio-simple-server"
   },
   "bugs": {
+    "url": "https://github.com/m3talstorm/socketio-simple-server/issues"
   },
   "keywords": [
     "nodejs",
