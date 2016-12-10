@@ -26,7 +26,6 @@ sudo npm install
 sudo npm start
 // Start the client (in another shell)
 sudo npm run client
-
 ~~~
 
 If you want the server to listen on a different port (not 8080) then change the `PORT` variable in both lib/server.js and lib/client.js
